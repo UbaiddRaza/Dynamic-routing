@@ -9,9 +9,9 @@ const Login = () => {
         width: '30%'
       }}>
         <Typography variant='h3' className='text-center'>Login User</Typography>
-        <TextField id="outlined-basic" label="Email" type='email' variant="outlined" />
+        {/* <TextField id="outlined-basic" label="Email" type='email' variant="outlined" />
         <TextField id="outlined-basic" label="Password" type='password' variant="outlined" />
-        <Button variant="contained">Login</Button>
+        <Button variant="contained">Login</Button> */}
 
 
       </Box>
